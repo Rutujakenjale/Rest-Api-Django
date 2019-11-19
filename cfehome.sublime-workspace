@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Art",
+				"ArticleSerializer"
+			],
+			[
+				"vie",
+				"views"
+			],
+			[
+				"router",
+				"routers"
+			],
+			[
+				"view",
+				"viewsets"
+			],
+			[
+				"Ar",
+				"ArticleForm"
+			],
+			[
+				"T",
+				"Title"
+			],
+			[
+				"url",
+				"urls"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"ur",
+				"url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/cfehome/urls.py",
+			"settings":
+			{
+				"buffer_size": 564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogapp/urls.py",
+			"settings":
+			{
+				"buffer_size": 456,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/blogapp/views.py",
+			"settings":
+			{
+				"buffer_size": 505,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogapp/admin.py",
+			"settings":
+			{
+				"buffer_size": 124,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/blogapp/serializers.py",
+			"settings":
+			{
+				"buffer_size": 260,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rutuja.kenjale/Dev/cfehome",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/cfehome",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/static_in_vertuakenv",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/static_in_vertuakenv/static_root"
+	],
+	"file_history":
+	[
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/cfehome/settings.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/api_urls.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/serializers.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/views.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/cfehome/urls.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/static_file_pro/our_static/img/example.txt",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/templates/base.html",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/templates/home.html",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/static_file_pro/our_static/css/navbar-static-top.css",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/static_file_pro/our_static/css/bootstrap.min.css",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/forms.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/models.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/admin.py",
+		"/C/Users/rutuja.kenjale/Dev/cfehome/src/blogapp/urls.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/cfehome/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/blogapp/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 456,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/blogapp/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/blogapp/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/blogapp/serializers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								259,
+								259
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cfehome.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 293.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
